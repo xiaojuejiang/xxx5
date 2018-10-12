@@ -37,6 +37,9 @@
 					status:false
 				})
 				target.value='';
+			},
+			HandleDelEvent:function(index){
+				todos.splice(index,1)
 			}
 		}
 	}).$mount('#app')
