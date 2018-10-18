@@ -17,6 +17,11 @@
 			id:3,
 			title:'敲代码',
 			status:false
+		},
+		{
+			id:4,
+			title:'打豆豆',
+			status:false
 		}
 	];
 
