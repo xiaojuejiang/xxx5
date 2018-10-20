@@ -46,6 +46,9 @@
 			},
 			HandleDelEvent:function(index){
 				todos.splice(index,1)
+			},
+			HandleClickEvent:function(){
+
 			}
 		}
 	}).$mount('#app')
